@@ -3,6 +3,7 @@ opt.nu=true
 opt.rnu=true
 opt.ignorecase=true
 opt.smartcase=true
+opt.showmode=false
 
 
 -- tab
